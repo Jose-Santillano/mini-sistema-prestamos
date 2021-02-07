@@ -1,0 +1,15 @@
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\bin\Debug\SistemaPrestamos.exe.config
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\bin\Debug\SistemaPrestamos.exe
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\bin\Debug\SistemaPrestamos.pdb
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.csprojAssemblyReference.cache
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.Properties.Resources.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.Registro.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.csproj.GenerateResource.cache
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.exe
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.pdb
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.Principal.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.MenuCliente.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.SolicitarPrestamo.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.Ingreso.resources
+C:\Users\XTREM 4\source\repos\SistemaPrestamos\obj\Debug\SistemaPrestamos.InformacionPrestamo.resources
